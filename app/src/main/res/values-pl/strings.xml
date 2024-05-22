@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save">Zapisz</string>
+    <string name="error_saving_image">Błąd przy zapisywaniu obrazu</string>
+</resources>

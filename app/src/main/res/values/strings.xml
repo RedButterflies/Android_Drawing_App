@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">LAB5</string>
+    <string name="x" translatable="false">X</string>
+    <string name="save">Save</string>
+    <string name="drawing" translatable="false">drawing_</string>
+    <string name="png" translatable="false">.png</string>
+    <string name="drawingcanvas" translatable="false">DrawingCanvas</string>
+    <string name="error_saving_image">Error saving image</string>
+    <string name="superstate" translatable="false">superState</string>
+    <string name="endcirclecolors" translatable="false">endCircleColors</string>
+    <string name="startcirclecolors" translatable="false">startCircleColors</string>
+    <string name="endys" translatable="false">endYs</string>
+    <string name="endxs" translatable="false">endXs</string>
+    <string name="startys" translatable="false">startYs</string>
+    <string name="startxs" translatable="false">startXs</string>
+    <string name="paths" translatable="false">paths</string>
+    <string name="colors" translatable="false">colors</string>
+    <string name="imagepath" translatable="false">imagePath</string>
+    <string name="must_implement_onimageselectedlistener" translatable="false">" must implement OnImageSelectedListener"</string>
+    <string name="drawingcanvasstate" translatable="false">drawingCanvasState</string>
+    <string name="permission_granted_to_save_image" translatable="false">Permission granted to save image</string>
+    <string name="permission_denied_to_save_image" translatable="false">Permission denied to save image</string>
+    <string name="yyyymmdd_hhmmss">yyyyMMdd_HHmmss</string>
+    <string name="img">IMG_</string>
+</resources>
